@@ -1,3 +1,21 @@
+
+#intro { color: rgb(240,128,128);
+    font-family: 'Rouge Script' cursive;
+    font-size: 50px;
+    font-weight: normal;
+    line-height: 70px;
+    margin: 0 0 50px;
+    text-align: center;
+    text-shadow: 1px 1px 2px #082b34;
+}
+
+#page { color: #2f4f4f;
+  font-family: 'Georgia',
+  sans-serif; font-size: 16px;
+  line-height: 24px;
+  margin: 0 0 24px; }
+  
 body {
   background-color: rgb(255, 240, 245);
+  text-align: left;
 }
